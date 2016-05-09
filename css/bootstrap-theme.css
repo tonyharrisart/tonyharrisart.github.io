@@ -31,7 +31,7 @@
 
 .bgcover {
     background: no-repeat;
-    background-image: url(http://i736.photobucket.com/albums/xx1/tonyharrisartwork/graphics/web-bg_zpsuefdzehp.jpg);
+    background-image: url(http://i736.photobucket.com/albums/xx1/tonyharrisartwork/graphics/web-bg_zpsgbdc7c8q.jpg);
     background-color: white;
 }
 
@@ -87,7 +87,7 @@
 }
 
 @media (min-width:1200px) {.container{width:970px;}}
-@media (max-width:1024px) {.bgcover {background-image: url(http://i736.photobucket.com/albums/xx1/tonyharrisartwork/graphics/web-bg_zpsuefdzehp.jpg); background-repeat: no-repeat; background-attachment: fixed; background-position: center; }}
+@media (max-width:1024px) {.bgcover {background-image: url(http://i736.photobucket.com/albums/xx1/tonyharrisartwork/graphics/web-bg_zpsgbdc7c8q.jpg); background-repeat: no-repeat; background-attachment: fixed; background-position: center; }}
 @media (max-width: 991px) {.gals {margin: 0 auto !important; float: none;}}
 
 
