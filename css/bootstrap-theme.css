@@ -31,17 +31,9 @@
 
 .bgcover {
     background: no-repeat;
-    background-image: url(..media/web-bg.png);
-    background-color: white;
-}
-
-<!-- testing new BG
-.bgcover {
-    background: no-repeat;
     background-image: url(https://cloud.githubusercontent.com/assets/4956498/10527667/4fadacd6-7357-11e5-8766-0a0f4d1111ee.JPG);
     background-color: white;
 }
--->
 
 .gals {
   background-color: rgba(175, 175, 175, 0.5);
@@ -95,7 +87,7 @@
 }
 
 @media (min-width:1200px) {.container{width:970px;}}
-@media (max-width:1024px) {.bgcover {background-image: url(..media/web-bg.png); background-repeat: no-repeat; background-attachment: fixed; background-position: center; }}
+@media (max-width:1024px) {.bgcover {background-image: url(https://cloud.githubusercontent.com/assets/4956498/10527667/4fadacd6-7357-11e5-8766-0a0f4d1111ee.JPG); background-repeat: no-repeat; background-attachment: fixed; background-position: center; }}
 @media (max-width: 991px) {.gals {margin: 0 auto !important; float: none;}}
 
 
