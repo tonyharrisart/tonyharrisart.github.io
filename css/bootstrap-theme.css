@@ -29,12 +29,19 @@
     display: inline-block;
 }
 
+.bgcover {
+    background: no-repeat;
+    background-image: url(media/web-bg.png);
+    background-color: white;
+}
 
+<!-- testing new BG
 .bgcover {
     background: no-repeat;
     background-image: url(https://cloud.githubusercontent.com/assets/4956498/10527667/4fadacd6-7357-11e5-8766-0a0f4d1111ee.JPG);
     background-color: white;
 }
+-->
 
 .gals {
   background-color: rgba(175, 175, 175, 0.5);
